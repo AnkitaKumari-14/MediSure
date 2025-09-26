@@ -33,8 +33,4 @@
 - MongoDB
 - Git
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/MediSure.git
-cd MediSure
+study from:https://www.youtube.com/watch?v=9OGhwqWQ8fI&t=22118s
